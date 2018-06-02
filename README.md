@@ -4,6 +4,18 @@ A collection of awesome browser extensions for web devs.
 - [JSON Formatter](https://github.com/callumlocke/json-formatter)
 - [EditThisCookie](http://www.editthiscookie.com/)
 - [Web Developer](https://chrispederick.com/work/web-developer/)
+- [DomFlags](https://chrome.google.com/webstore/detail/domflags/nindoglnpjcjoaheijieagogboabafkc)
+- [iMacros for Chrome](https://imacros.net/)
+- [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
+- [WhatFont](http://www.chengyinliu.com/whatfont.html)
+- [YSlow](http://yslow.org/)
+- [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn)
+- [Web Developer Checklist](http://webdevchecklist.com/)
+- [DevTools Autosave](https://github.com/NV/chrome-devtools-autosave/)
+- [Colorzilla](http://www.colorzilla.com/chrome/)
+- [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf)
+- [Check My Links](https://github.com/ocodia/Check-My-Links/)
+- [Full Page Screen Capture](https://mrcoles.com/full-page-screen-capture-chrome-extension/)
 
 Accessibility
 - [aXe](https://www.deque.com/axe/)

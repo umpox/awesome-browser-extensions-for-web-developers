@@ -11,3 +11,6 @@ Accessibility
 
 JS Frameworks
 - [React Developer Tools](https://github.com/facebook/react-devtools)
+- [Redux DevTools](https://github.com/zalmoxisus/redux-devtools-extension)
+- [Angular Augury](https://augury.angular.io/)
+- [Vue.js devtools](https://github.com/vuejs/vue-devtools)

@@ -1,6 +1,11 @@
 # awesome-browser-extensions-for-web-devs
 A collection of awesome browser extensions for web devs.
 
+| JSON Formatter | https://github.com/callumlocke/json-formatter |
+| ------------- | :-------------: |
+| Description | Prints JSON and JSONP nicely when you visit it 'directly' in a browser tab.|
+| Download | <a href="https://chrome.google.com/webstore/detail/github-ast-viewer/kgncjlmmhhmhbiiacajdmpnhplahelkh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>  |
+
 - [JSON Formatter](https://github.com/callumlocke/json-formatter)
 - [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 - [EditThisCookie](http://www.editthiscookie.com/)

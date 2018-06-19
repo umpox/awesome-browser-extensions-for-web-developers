@@ -16,8 +16,9 @@ A collection of awesome browser extensions for web devs.
     <tr>
       <td>Download</td>
       <td>
-         <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa">
-           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" />            </a>
+        <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa">
+            <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" />
+        </a>
       </td>
     </tr>
   </tbody>
@@ -38,11 +39,12 @@ A collection of awesome browser extensions for web devs.
     <tr>
       <td>Download</td>
       <td>
-         <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg">
-           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" />            </a>
-         <a href="https://addons.opera.com/en/extensions/details/edit-this-cookie/">
-           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="30" />
-         </a>
+        <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg">
+            <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" />
+        </a>
+        <a href="https://addons.opera.com/en/extensions/details/edit-this-cookie/">
+            <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="30" />
+        </a>
       </td>
     </tr>
   </tbody>
@@ -63,20 +65,44 @@ A collection of awesome browser extensions for web devs.
     <tr>
       <td>Download</td>
       <td>
-         <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm">
-           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" />            </a>
-         <a href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/">
-           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="30" />
-         </a> 
-         <a href="https://addons.opera.com/en/extensions/details/edit-this-cookie/">
-           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="30" />
-         </a>
+        <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm">
+            <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" />
+        </a>
+        <a href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/">
+            <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="30" />
+        </a> 
+        <a href="https://addons.opera.com/en/extensions/details/edit-this-cookie/">
+            <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="30" />
+        </a>
       </td>
     </tr>
   </tbody>
 </table>
 
-- [DomFlags](https://chrome.google.com/webstore/detail/domflags/nindoglnpjcjoaheijieagogboabafkc)
+<table>
+  <thead>
+    <tr>
+      <th width="30%">DomFlags - RESEARCH MORE</th>
+      <th width="2000">https://github.com/plapier/domflags-extension</th>
+     </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>Description</td>
+      <td>Create keyboard shortcuts to DOM elements for a faster devtools workflow</td>
+    </tr>
+    <tr>
+      <td>Download</td>
+      <td>
+        <a href="https://chrome.google.com/webstore/detail/domflags/nindoglnpjcjoaheijieagogboabafkc">
+            <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 - [iMacros for Chrome](https://imacros.net/)
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 - [WhatFont](http://www.chengyinliu.com/whatfont.html)

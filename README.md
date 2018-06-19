@@ -4,11 +4,15 @@ A collection of awesome browser extensions for web devs.
 | JSON Formatter | https://github.com/callumlocke/json-formatter |
 | ------------- | :-------------: |
 | Description | Prints JSON and JSONP nicely when you visit it 'directly' in a browser tab.|
-| Download | <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa" target="_blank"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
+| Download | <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
 
-- [JSON Formatter](https://github.com/callumlocke/json-formatter)
-- [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
 - [EditThisCookie](http://www.editthiscookie.com/)
+
+| EditThisCookie | https://github.com/fcapano/Edit-This-Cookie |
+| ------------- | :-------------: |
+| Description | A cookie manager to add, delete, edit, search, protect, and block cookies. |
+| Download | <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/en/extensions/details/edit-this-cookie/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> |
+
 - [Web Developer](https://chrispederick.com/work/web-developer/)
 - [DomFlags](https://chrome.google.com/webstore/detail/domflags/nindoglnpjcjoaheijieagogboabafkc)
 - [iMacros for Chrome](https://imacros.net/)

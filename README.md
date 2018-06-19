@@ -6,7 +6,6 @@ A collection of awesome browser extensions for web devs.
 | Description | Prints JSON and JSONP nicely when you visit it 'directly' in a browser tab.|
 | Download | <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
 
-- [EditThisCookie](http://www.editthiscookie.com/)
 
 | EditThisCookie | https://github.com/fcapano/Edit-This-Cookie |
 | ------------- | :-------------: |

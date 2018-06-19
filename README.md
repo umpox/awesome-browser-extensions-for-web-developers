@@ -26,8 +26,8 @@ A collection of awesome browser extensions for web devs.
 <table>
   <thead>
     <tr>
-      <th width="500">EditThisCookie</th>
-      <th width="2000">https://github.com/fcapano/Edit-This-Cookie</th>
+      <th width="500">JSON Formatter</th>
+      <th width="2000">https://github.com/callumlocke/json-formatter</th>
      </tr>
   </thead>
   <tbody align="center">

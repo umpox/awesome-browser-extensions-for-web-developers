@@ -4,8 +4,8 @@ A collection of awesome browser extensions for web devs.
 <table>
   <thead>
     <tr>
-      <th width="200">JSON Formatter</th>
-      <th width="800">https://github.com/callumlocke/json-formatter</th>
+      <th width="500">JSON Formatter</th>
+      <th width="2000">https://github.com/callumlocke/json-formatter</th>
      </tr>
   </thead>
   <tbody align="center">
@@ -23,16 +23,58 @@ A collection of awesome browser extensions for web devs.
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th width="500">EditThisCookie</th>
+      <th width="2000">https://github.com/fcapano/Edit-This-Cookie</th>
+     </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>Description</td>
+      <td>A cookie manager to add, delete, edit, search, protect, and block cookies.</td>
+    </tr>
+    <tr>
+      <td>Download</td>
+      <td>
+         <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg">
+           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" />            </a>
+         <a href="https://addons.opera.com/en/extensions/details/edit-this-cookie/">
+           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="30" />
+         </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-| EditThisCookie | https://github.com/fcapano/Edit-This-Cookie |
-| ------------- | :-------------: |
-| Description | A cookie manager to add, delete, edit, search, protect, and block cookies. |
-| Download | <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="30" /></a><a href="https://addons.opera.com/en/extensions/details/edit-this-cookie/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="30" /></a> |
-
-| Web Developer | https://github.com/chrispederick/web-developer |
-| ------------- | :-------------: |
-| Description | Adds a toolbar button to the browser with various web developer tools to modify the current page |
-| Download | <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/en/extensions/details/web-developer/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> |
+<table>
+  <thead>
+    <tr>
+      <th width="500">Web Developer</th>
+      <th width="2000">https://github.com/chrispederick/web-developer</th>
+     </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>Description</td>
+      <td>Adds a toolbar button to the browser with various web developer tools to modify the current page</td>
+    </tr>
+    <tr>
+      <td>Download</td>
+      <td>
+         <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm">
+           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" />            </a>
+         <a href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/">
+           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="30" />
+         </a> 
+         <a href="https://addons.opera.com/en/extensions/details/edit-this-cookie/">
+           <img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="30" />
+         </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 - [DomFlags](https://chrome.google.com/webstore/detail/domflags/nindoglnpjcjoaheijieagogboabafkc)
 - [iMacros for Chrome](https://imacros.net/)

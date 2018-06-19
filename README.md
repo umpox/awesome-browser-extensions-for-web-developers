@@ -5,7 +5,7 @@ A collection of awesome browser extensions for web devs.
   <thead>
     <tr>
       <th width="30%">JSON Formatter</th>
-      <th width="70%">https://github.com/callumlocke/json-formatter</th>
+      <th width="2000">https://github.com/callumlocke/json-formatter</th>
      </tr>
   </thead>
   <tbody align="center">
@@ -26,7 +26,7 @@ A collection of awesome browser extensions for web devs.
 <table>
   <thead>
     <tr>
-      <th width="500">EditThisCookie</th>
+      <th width="30%">EditThisCookie</th>
       <th width="2000">https://github.com/fcapano/Edit-This-Cookie</th>
      </tr>
   </thead>
@@ -51,7 +51,7 @@ A collection of awesome browser extensions for web devs.
 <table>
   <thead>
     <tr>
-      <th width="500">Web Developer</th>
+      <th width="30%">Web Developer</th>
       <th width="2000">https://github.com/chrispederick/web-developer</th>
      </tr>
   </thead>

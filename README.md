@@ -4,15 +4,18 @@ A collection of awesome browser extensions for web devs.
 | JSON Formatter | https://github.com/callumlocke/json-formatter |
 | ------------- | :-------------: |
 | Description | Prints JSON and JSONP nicely when you visit it 'directly' in a browser tab.|
-| Download | <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> |
-
+| Download | <a href="https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" /></a> |
 
 | EditThisCookie | https://github.com/fcapano/Edit-This-Cookie |
 | ------------- | :-------------: |
 | Description | A cookie manager to add, delete, edit, search, protect, and block cookies. |
-| Download | <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/en/extensions/details/edit-this-cookie/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> |
+| Download | <a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="30" /></a><a href="https://addons.mozilla.org/en-US/firefox/addon/web-developer/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="30" /></a><a href="https://addons.opera.com/en/extensions/details/edit-this-cookie/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="30" /></a> |
 
-- [Web Developer](https://chrispederick.com/work/web-developer/)
+| Web Developer | https://github.com/chrispederick/web-developer |
+| ------------- | :-------------: |
+| Description | Adds a toolbar button to the browser with various web developer tools to modify the current page |
+| Download | <a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a> <a href="https://addons.opera.com/en/extensions/details/web-developer/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a> |
+
 - [DomFlags](https://chrome.google.com/webstore/detail/domflags/nindoglnpjcjoaheijieagogboabafkc)
 - [iMacros for Chrome](https://imacros.net/)
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)

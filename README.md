@@ -9,8 +9,6 @@ A collection of awesome browser extensions for web devs.
 - [Colorzilla](http://www.colorzilla.com/chrome/)
 - [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf)
 - [Full Page Screen Capture](https://mrcoles.com/full-page-screen-capture-chrome-extension/)
-- [Code Cola](https://chrome.google.com/webstore/detail/code-cola/lomkpheldlbkkfiifcbfifipaofnmnkn?hl=en)
-- [CSSViewer](https://github.com/miled/cssviewer)
 - [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna?hl=en)
 - [SnappySnippet](https://chrome.google.com/webstore/detail/snappysnippet/blfngdefapoapkcdibbdkigpeaffgcil?hl=en)
 - [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)
@@ -201,3 +199,9 @@ https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjp
     </tr>
   </tbody>
 </table>
+
+
+
+### BIN
+- [Code Cola] -- NEED TO RESEARCH
+- [CSSViewer] -- NO BENEFIT OVER DEV TOOLS

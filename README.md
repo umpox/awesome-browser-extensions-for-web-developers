@@ -32,9 +32,50 @@ A collection of awesome browser extensions for web devs.
 - [Redux DevTools](https://github.com/zalmoxisus/redux-devtools-extension)
 - [Angular Augury](https://augury.angular.io/)
 - [Vue.js devtools](https://github.com/vuejs/vue-devtools)
+- [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
 
 ## Misc
 - [Marmoset](https://chrome.google.com/webstore/detail/marmoset/npkfpddkpefnmkflhhligbkofhnafieb?hl=en)
+
+
+## f19n Obtrusive Live Test
+https://chrome.google.com/webstore/detail/f19n-obtrusive-live-test/jbnaibigcohjfefpfocphcjeliohhold/related
+
+## Colorpick eyedropper
+https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg
+
+## IE Tab
+https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd
+
+## Site palette
+http://palette.site/
+
+## Checkbot
+https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl
+
+## Perfect Pixel
+https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi/related?hl=en
+
+## Clear Cache
+https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn
+
+## Pesticide
+https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh
+
+## Corporate Ipsum
+https://chrome.google.com/webstore/detail/corporate-ipsum/lfmadckmfehehmdnmhaebniooenedcbb
+
+## Tape
+https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb
+
+## Magic CSS
+https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol
+
+## Allow-Control-Allow-Origin
+https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
+
+## Lighthouse
+https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk
 
 
 <table>

@@ -1,6 +1,7 @@
 # awesome-browser-extensions-for-web-devs
 A collection of awesome browser extensions for web devs.
 
+
 ## Development
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
 - [iMacros for Chrome](https://imacros.net/)
@@ -12,6 +13,7 @@ A collection of awesome browser extensions for web devs.
 - [Google Analytics Debugger](https://chrome.google.com/webstore/detail/google-analytics-debugger/jnkmfdileelhofjcijamephohjechhna?hl=en)
 - [SnappySnippet](https://chrome.google.com/webstore/detail/snappysnippet/blfngdefapoapkcdibbdkigpeaffgcil?hl=en)
 - [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)
+- [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en)
 
 ## Page Evaluation
 - [WhatFont](http://www.chengyinliu.com/whatfont.html)
